@@ -1,0 +1,11 @@
+{
+    "verbose": true,
+    "preset": "ts-jest",
+    "coverageDirectory": "./coverage",
+    "testMatch": [
+      "**/?(*.)+(test).ts"
+    ],
+    "resetMocks": true,
+    "clearMocks": true
+  }
+  
